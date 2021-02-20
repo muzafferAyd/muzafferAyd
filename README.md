@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+## Hi there. I'm Muzaffer 👋
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-aydogdu/)
@@ -14,5 +14,3 @@
 - 👯 I’m looking for job to improve myself on IT
 
 - 💬 Ask me about anything that you want to learn
-
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
